@@ -2,8 +2,8 @@ Changelog
 =========
 [Tiberiu Ichim - tiberiu.ichim@eaudeweb.ro]
 
-2.0-dev - (unreleased)
-----------------------
+2.0 - (2012-08-07)
+------------------
 
 1.9 - (2012-08-07)
 ------------------
