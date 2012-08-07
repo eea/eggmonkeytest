@@ -17,7 +17,6 @@ setup(name=name,
             read('docs', 'HISTORY.txt'),
             ]),
         classifiers=[
-            "Framework :: buildout",
             "Programming Language :: Python",
             ],
         keywords='buildout',
