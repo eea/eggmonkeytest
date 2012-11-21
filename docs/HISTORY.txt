@@ -2,8 +2,12 @@ Changelog
 =========
 [Tiberiu Ichim - tiberiu.ichim@eaudeweb.ro]
 
-3.4-dev - (unreleased)
+3.5-dev - (unreleased)
 ----------------------
+
+3.4 - (2012-11-21)
+------------------
+* Change: No change
 
 3.3 - (2012-11-21)
 ------------------
