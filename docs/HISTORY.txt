@@ -2,8 +2,8 @@ Changelog
 =========
 [Tiberiu Ichim - tiberiu.ichim@eaudeweb.ro]
 
-4.9-dev - (unreleased)
-----------------------
+4.9 - (2013-02-27)
+------------------
 
 4.8 - (2012-11-27)
 ------------------
