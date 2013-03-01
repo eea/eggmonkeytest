@@ -2,8 +2,8 @@ Changelog
 =========
 [Tiberiu Ichim - tiberiu.ichim@eaudeweb.ro]
 
-5.2-dev - (unreleased)
-----------------------
+5.2 - (2013-03-01)
+------------------
 
 5.1 - (2013-02-28)
 ------------------
