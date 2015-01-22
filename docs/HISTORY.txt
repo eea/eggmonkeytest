@@ -2,8 +2,8 @@ Changelog
 =========
 [Tiberiu Ichim - tiberiu.ichim@eaudeweb.ro]
 
-5.8-dev - (unreleased)
-----------------------
+5.8 - (2015-01-22)
+------------------
 
 5.7 - (2013-09-26)
 ------------------
