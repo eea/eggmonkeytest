@@ -1,6 +1,9 @@
 Changelog
 =========
 
+6.3.dev0 - (unreleased)
+-----------------------
+
 6.2 - (2015-07-27)
 ------------------
 * Bug fix: Fixed package structure
