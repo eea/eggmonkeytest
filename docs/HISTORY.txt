@@ -1,8 +1,10 @@
 Changelog
 =========
 
-6.2.dev0 - (unreleased)
------------------------
+6.2 - (2015-07-27)
+------------------
+* Bug fix: Fixed package structure
+  [ghicaale refs #27245]
 
 6.1 - (2015-06-16)
 ------------------
