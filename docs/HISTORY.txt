@@ -1,6 +1,8 @@
 Changelog
 =========
-[Tiberiu Ichim - tiberiu.ichim@eaudeweb.ro]
+
+6.2.dev0 - (unreleased)
+-----------------------
 
 6.1 - (2015-06-16)
 ------------------
