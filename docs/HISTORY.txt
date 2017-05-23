@@ -3,6 +3,8 @@ Changelog
 
 6.3.dev0 - (unreleased)
 -----------------------
+* Change: Test
+  [avoinea]
 
 6.2 - (2015-07-27)
 ------------------
