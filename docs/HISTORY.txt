@@ -3,7 +3,7 @@ Changelog
 
 6.3.dev0 - (unreleased)
 -----------------------
-* Change: Test
+* Change: Test gpg
   [avoinea]
 
 6.2 - (2015-07-27)
