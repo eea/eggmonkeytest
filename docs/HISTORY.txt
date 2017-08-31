@@ -1,8 +1,8 @@
 Changelog
 =========
 
-6.3.dev0 - (unreleased)
------------------------
+6.3 - (2017-08-31)
+------------------
 * Change: Test gpg
   [avoinea]
 
